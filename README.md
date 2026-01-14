@@ -84,7 +84,9 @@ Raw datasets are not included due to size and licensing constraints.
 https://www.kaggle.com/datasets/firecastrl/us-wildfire-dataset
 - MODIS NDVI via Google Earth Engine
 - SRTM DEM for terrain elevation and slope
-Processed datasets are available in the data/ directory.
+
+Processed datasets are available in the `data/` directory.
+
 
 
 
