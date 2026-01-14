@@ -65,4 +65,36 @@ Fitness formulation:
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+Run Term_Project.ipynb to reproduce experiments and GA search behavior.
 
+
+
+---
+
+## 🔗 Data Sources
+Raw datasets are not included due to size and licensing constraints.
+- US Wildfire Dataset (2014–2025):
+https://www.kaggle.com/datasets/firecastrl/us-wildfire-dataset
+- MODIS NDVI via Google Earth Engine
+- SRTM DEM for terrain elevation and slope
+Processed datasets are available in the data/ directory.
+
+
+
+---
+
+## 📌 Applications
+- Autonomous wildfire scouting
+- UAV / drone swarm deployment
+- Risk-aware navigation in dynamic environments
+- Active sensing under bandwidth constraints
+
+
+
+---
+
+## 👤 Author
+Adit Dhall
+MS Artificial Intelligence
+📧 ad6449@rit.edu
