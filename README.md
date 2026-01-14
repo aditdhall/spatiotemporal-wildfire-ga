@@ -31,9 +31,10 @@ Unlike traditional grid-based risk mapping or deep learning approaches that requ
 
 Fitness formulation:
 
-\[
-\mathcal{J}(x) = Fuel \times Weather \times Slope \times (1 + w_h e^{-d})
-\]
+```
+Fitness:
+J(x) = Fuel × Weather × Slope × (1 + w_h e^{-d})
+```
 
 ---
 
